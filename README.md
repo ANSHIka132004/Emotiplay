@@ -21,3 +21,5 @@ PROJECT STRUCTURE
 ├── requirements.txt        # Required Python packages
 
 
+
+![Screenshot 2025-06-04 005939](https://github.com/user-attachments/assets/c5a526c1-7060-42ec-800b-49c4828ef6de)
