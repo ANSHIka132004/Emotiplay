@@ -22,9 +22,13 @@ Emotion images normalized, augmented (rotation, shift, zoom, flip)
 Emotion-to-genre mapping:
 
 😊 Happy → Comedy, Animation, Adventure
+
 😢 Sad → Drama, Romance
+
 😠 Angry → Action, Thriller
+
 😐 Neutral → Sci-Fi, Documentary
+
 😲 Surprise → Horror, Fantasy
 
 Data validation and error handling
@@ -37,7 +41,9 @@ Genre distribution insights
 
 # Feature Extraction
 Face Detection: Haar Cascades
+
 Emotion Classification: CNN
+
 Movie Metadata: Title, Genre, Rating, Poster, Overview
 
 # Model Training
