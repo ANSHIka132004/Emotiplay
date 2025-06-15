@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/275ca64f-7118-4365-af81-187241f6da15
+
+
+
+https://github.com/user-attachments/assets/aeaa65e0-dddb-4ad2-82bf-027ab31f3aac
+
 🧠 How It Works
 -The system captures an image via webcam.
 -A trained Keras model (emotiondetector.keras) predicts the emotion.
